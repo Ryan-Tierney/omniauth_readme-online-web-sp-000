@@ -1,5 +1,4 @@
 *.sqlite3
 *.log
 tmp/Gemfile.lock
-App ID 606012977018684
-App secret c5d328b5de7d864489902c19d8d24bbd
+.env
